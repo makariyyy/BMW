@@ -1,7 +1,7 @@
 <html>
       <body style="background-color: Beige; font-family: sans-serif">
      <header style="background-color:wheat">
-        <img src="https://naklei-ka.com.ua/wa-data/public/shop/products/95/09/995/images/3119/3119.970.jpg "  height="25"; weight= "20px">
+        <img src="https://kor.ill.in.ua/m/610x385/2722809.jpg "  height="25"; weight= "20px">
     
      
       <a href="https://uk.wikipedia.org/wiki/BMW" style="color:peru">Вікіпедія </a> 
